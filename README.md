@@ -20,25 +20,11 @@ This repository contains a simple and secure login page designed to streamline u
 - **Template Engine**:
   - EJS
 
-## Installation
-
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/abdulrehman9988/Login-Page.git
    cd Login-Page
    ```
-
-2. **Install Dependencies**:
-   Ensure you have [Node.js](https://nodejs.org/) installed. Then, run:
-   ```bash
-   npm install
-   ```
-
-3. **Start the Application**:
-   ```bash
-   npm start
-   ```
-   The application will run on `http://localhost:3000` by default.
 
 ## Usage
 
