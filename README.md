@@ -28,13 +28,10 @@ This repository contains a simple and secure login page designed to streamline u
 
 ## Usage
 
-- **Access the Login Page**: Navigate to `http://localhost:3000/login` to view the login interface.
+- **Access the Login Page**: Navigate to `http://localhost:5000/login` to view the login interface.
 - **Authentication Flow**: Enter your credentials to log in. The application validates user input and provides feedback accordingly.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance the login page or fix any issues, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
