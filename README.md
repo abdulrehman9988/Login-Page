@@ -45,29 +45,6 @@ This repository contains a simple and secure login page designed to streamline u
 - **Access the Login Page**: Navigate to `http://localhost:3000/login` to view the login interface.
 - **Authentication Flow**: Enter your credentials to log in. The application validates user input and provides feedback accordingly.
 
-## Project Structure
-
-```
-Login-Page/
-├── src/
-│   ├── routes/
-│   │   └── auth.js       # Authentication routes
-│   ├── controllers/
-│   │   └── authController.js  # Authentication logic
-│   └── app.js           # Main application file
-├── views/
-│   ├── login.ejs        # Login page template
-│   └── partials/
-│       └── header.ejs   # Header partial
-├── public/
-│   ├── css/
-│   │   └── styles.css   # CSS styles
-│   └── js/
-│       └── scripts.js   # JavaScript scripts
-├── package.json         # Project metadata and dependencies
-└── README.md            # Project documentation
-```
-
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance the login page or fix any issues, please fork the repository and submit a pull request.
