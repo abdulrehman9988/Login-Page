@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  },
+  "name": "login-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulrehman9988/Login-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulrehman9988/Login-Page/issues"
+  },
+  "homepage": "https://github.com/abdulrehman9988/Login-Page#readme",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "nodemon": "^3.1.9"
+  }
+}
